@@ -8,7 +8,8 @@ public class SwapWithoutThird {
 		a=a-b;
 		System.out.println(a);
 		System.out.println(b);
-		
+		System.out.println("hello");
+		System.out.println("added");
 	}
 
 }
